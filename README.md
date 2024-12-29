@@ -63,13 +63,13 @@ YT2MP3 integrates into macOS as a Service, allowing you to quickly download and 
 - DOWNLOAD_DIR=~/Music/yt
   
   
-##Troubleshooting
+## Troubleshooting
 - Missing Dependencies: If you see an error about missing yt-dlp or ffmpeg, refer to the Installation section above.
 - Permission Issues: Make sure the script is executable:
 - chmod +x yt2mp3.sh
 - No Output or Errors: Verify that yt-dlp and ffmpeg are correctly installed and accessible in your system's PATH.  
 
-##Disclaimer
+## Disclaimer
 This tool is provided for convenience to simplify processes that could otherwise be performed manually using publicly available tools like yt-dlp and ffmpeg. However, it is your responsibility to ensure that your usage complies with the copyright laws and regulations in your country or region.
 
 ### Respect Copyright: 
@@ -90,5 +90,3 @@ This script is provided "as is" without warranty of any kind, express or implied
 * By using this tool, you accept full responsibility for any outcomes, including unintended or adverse effects. 
 
 The author encourages everyone to always review the source code of the script and understand what it is doing and claiming to do, So, always review the script, test in a safe environment, and back up important data before use.
-
-
